@@ -7,8 +7,9 @@ In the unit test
     Mock out the StudentService using Mockito
     Use Mock MVC framework to launch only StudentController.
 
-URL:
+    URL:
     http://localhost:8080/students
+
     http://localhost:8080/students/student1
 
 2. MVC applicatin includes a controller -- WelcomeController renders a simple welcome page:
