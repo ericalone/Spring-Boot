@@ -12,6 +12,7 @@ URL:
     http://localhost:8080/students/student1
 
 2. MVC applicatin includes a controller -- WelcomeController renders a simple welcome page:
+
     http://localhost:8080
 
 3. Start server
